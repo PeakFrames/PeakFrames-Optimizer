@@ -2,8 +2,7 @@ PeakFrames is an open-source, powerful batch script designed to optimize the per
 
 Whether you’re looking to remove unnecessary bloat, enhance CPU/GPU performance, or optimize power and memory usage, PeakFrames provides an easy-to-use solution for boosting your system’s performance.
 
-# Key Features:
-Features
+# Features:
 1. General Optimizations
 Removes unneeded startup items and background processes.
 Disables unnecessary Windows services and features that can slow down your PC.
