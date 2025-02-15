@@ -21,6 +21,6 @@ The script will automatically apply optimizations based on the defined settings.
 If anyone is intersted in contributing to this project, fork and modify it on your own terms. If your additions were necessary and good, I will merge the repostries.
 
 # For More Information
-. Message me on discord: binarypetro
-. PeakFrames Official Discord Server: https://discord.gg/uEAejF7zwa
-. PeakFrames Official Website: peakframes.xyz
+1. Message me on discord: binarypetro
+2. PeakFrames Official Discord Server: https://discord.gg/uEAejF7zwa
+3. PeakFrames Official Website: peakframes.xyz
